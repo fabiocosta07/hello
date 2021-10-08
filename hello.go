@@ -4,6 +4,7 @@ import (
 	quotev3 "rsc.io/quote/v3"
 )
 
+// Hello func
 func Hello() string {
 	return quotev3.HelloV3()
 }
